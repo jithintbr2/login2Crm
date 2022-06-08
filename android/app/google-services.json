@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384983095684",
+    "project_id": "login2crm-5fc53",
+    "storage_bucket": "login2crm-5fc53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384983095684:android:f544fbf975a100c48c65d1",
+        "android_client_info": {
+          "package_name": "com.crm_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384983095684-t9da88sr823l25lershg4c5e4i9kb70d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZu-A4akp4_2kKGwlwYKyknxN5SqlmOFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384983095684-t9da88sr823l25lershg4c5e4i9kb70d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
